@@ -164,7 +164,8 @@ if __name__ == "__main__":
 
     with image_generation:
         prompt = st.text_area(
-            "Enter a prompt for the image generation", "Generate a photo of a cityscape"
+            "Enter a prompt for the image generation",
+            "photography, orange hue, korean woman model, solid orange backdrop, using a camera setup that mimics a large aperture, f/1. 4 --ar 9:16 --style raw",
         )
 
         generate = st.button(
