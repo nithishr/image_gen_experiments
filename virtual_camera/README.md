@@ -1,6 +1,6 @@
 # Virtual Camera
 
-This project is focused on image generation using a virtual camera based on a location picked by the user from the Map. The images are generated using [FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) model hosted on [Together.ai](https://www.together.ai/) based on the surroundings, weather and the location.
+This project is focused on image generation using a virtual camera based on a location picked by the user from the Map. The images are generated using [FLUX.1-schnell](https://huggingface.co/black-forest-labs/FLUX.1-schnell) model hosted on [Together.ai](https://www.together.ai/) based on the surroundings, weather and the location. It is inspired by [Paragraphica](https://bjoernkarmann.dk/project/paragraphica).
 
 The app also has a tab to generate images based on custom prompt.
 
