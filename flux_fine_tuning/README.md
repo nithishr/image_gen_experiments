@@ -4,7 +4,7 @@ This application provides an application to run a fine-tuned FLUX.1 model using 
 
 ![Screenshot of the app](app.png)
 
-Finetuning can be done with a few images (10-20). The instructions for finetuning can be found [here](https://replicate.com/docs/get-started/fine-tune-with-flux). Training requires about $2.
+Finetuning can be done with a few images (10-20). The instructions for finetuning can be found [here](https://replicate.com/docs/get-started/fine-tune-with-flux). It will cost around $2 to train the model in about 20 minutes.
 
 ## Installation
 
