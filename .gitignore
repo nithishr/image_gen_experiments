@@ -120,8 +120,9 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-# Streamlit
-.streamlit/ 
-
 # Outputs
 flux_fine_tuning/outputs
+
+# Streamlit
+flux_fine_tuning/.streamlit/secrets.toml
+virtual_camera/.streamlit/secrets.toml
